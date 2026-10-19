@@ -1,0 +1,4 @@
+build/
+.radare2-src/
+.progress
+scripts/__pycache__/
